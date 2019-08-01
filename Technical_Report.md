@@ -6,7 +6,7 @@ ___________________________________________________________________
 ## Problem Statement
 
 
-Historically, Machine Learning Natural Language Processing (NLP), or deriving Computational meaning from human language, on Internet Content (i.e. Comments from Forums, Twitter, etc) has been used to attempt to make accurate predictions on Publicly Traded Stocks. 
+Historically, Machine Learning Natural Language Processing (NLP), or deriving Computational meaning from human language, on Internet Content (i.e. Comments from Forums, Twitter, etc.) has been used to attempt to make accurate predictions on Publicly Traded Stocks. 
 
 There are many challenges to approaching this problem. Mainly, the Stock Market generally trades with a lot of noise, or randomly within a range, before showing a true trend and general investors get overly emotional during market volatility. Since investors are usually reacting to market moves, predicting a Stock Market move from something it influences is very difficult.
 
