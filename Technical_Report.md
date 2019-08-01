@@ -10,7 +10,7 @@ Historically, Machine Learning Natural Language Processing (NLP), or deriving Co
 
 There are many challenges to approaching this problem. Mainly, the Stock Market generally trades with a lot of noise, or randomly within a range, before showing a true trend and general investors get overly emotional during market volatility. Since investors are usually reacting to market moves, predicting a Stock Market move from something it influences is very difficult.
 
-If this assumption is true, that investors emotions are based off of changes in the Stock Market, then using the Stock Market to predict investor sentiment is a possibility.
+If this assumption is true, that investors emotions are based off of changes in the Stock Prices, then using the Stock Market to predict investor sentiment is a possibility.
 
 The use case for this model is to help Broker Dealers, Investment Fund Companies, and Money Managers maintain strong relationships with their investors. One of the top reasons why clients leave their advisers is the lack of communication or setting expectations:
 
