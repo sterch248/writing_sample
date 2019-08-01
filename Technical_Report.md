@@ -69,7 +69,7 @@ From the Vader Sentiment Libraries (source: https://github.com/cjhutto/vaderSent
 
 **Sentiment Distribution**
 
-After evaluating the sentiment, the distribution of Compound Sentiment(on a -1 to 1 scale, from negative sentiment to positive sentiment, respectively):
+After evaluating the sentiment, the distribution of Compound Sentiment (on a -1 to 1 scale, from negative sentiment to positive sentiment, respectively):
 
 ![histogram_sentiment](./data/sentiment_histogram.png)
 
